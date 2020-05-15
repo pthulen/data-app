@@ -4,3 +4,5 @@ module.exports = {
     mongoURI: process.env.MONGO_URI,
     cookieKey: process.env.COOKIE_KEY
 }
+
+//env variables set on heroku hosting
